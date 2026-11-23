@@ -2,7 +2,7 @@
 
 <img src="assets/banner.jpg" alt="Rabt National" width="100%" />
 
-<img src="assets/logo.jpeg" alt="Rabt National logo" width="110" />
+<img src="assets/logo.png" alt="Rabt National logo" width="110" />
 
 # Rabt National · ربط الوطنية
 
@@ -40,6 +40,18 @@ We build custom websites, apps, dashboards and business systems for companies in
 - 📈 **Reports** · تقارير
 - 💳 **Payment gateways** · بوابات الدفع
 - 🚀 **Clear technical handover to your team** · تسليم تقني واضح للفريق
+
+---
+
+## 🚀 Our products · منتجاتنا
+
+### R-DASH: Business Operations Dashboard
+A ready-made dashboard to run your business operations in one place.<br/>
+لوحة تحكم جاهزة لإدارة عمليات شركتك في مكان واحد.
+
+<p>
+  <a href="https://www.codester.com/items/74881/r-dash-business-operations-dashboard?ref=RabtNational"><img src="https://img.shields.io/badge/Get%20R--DASH-on%20Codester-C9A227?style=for-the-badge" alt="Get R-DASH on Codester" /></a>
+</p>
 
 ---
 
