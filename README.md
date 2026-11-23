@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Rabt National" width="100%" />
-
 <img src="assets/logo.png" alt="Rabt National logo" width="110" />
 
 # Rabt National · ربط الوطنية
